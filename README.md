@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alarnath</h1>
 <h3 align="center">A passionate Front-End Developer and AI Learner from India</h3>
 
-
 - 🌱 I’m currently learning **Fornt-end and AI**
 
 - 📫 How to reach me **alarnathbehera8@gmail.com**
