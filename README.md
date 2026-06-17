@@ -19,7 +19,7 @@
 <h3 align="left">MY SKILLS:</h3>
 <p align="left"
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,linux)](https://skillicons.dev)
 
 ## Stats and dev activity
 ![Alarnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithalar&theme=dark&show_icons=true)
