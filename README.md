@@ -13,7 +13,6 @@
 <a href="https://kaggle.com/alarnathbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alarnathbehera" height="30" width="40" /></a>
 <a href="https://instagram.com/code_withalar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_withalar" height="30" width="40" /></a>
 
-
 <h3 align="left">MY SKILLS:</h3>
 <p align="left"
 
