@@ -13,8 +13,7 @@
 <a href="https://linkedin.com/in/alarnath-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alarnath-behera" height="30" width="40" /></a>
 <a href="https://kaggle.com/alarnathbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alarnathbehera" height="30" width="40" /></a>
 <a href="https://instagram.com/code_withalar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_withalar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@code_withalar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@code_withalar" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">MY SKILLS:</h3>
 <p align="left"
